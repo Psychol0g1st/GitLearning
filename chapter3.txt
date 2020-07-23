@@ -1,0 +1,1 @@
+This is the third file. I think that I will learn a few moments later how to use version contorol, and how to go back to earlier commits.
